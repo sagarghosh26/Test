@@ -1,0 +1,13 @@
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\bin\Debug\netcoreapp2.1\WebAPI_GIT_Test.deps.json
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\bin\Debug\netcoreapp2.1\WebAPI_GIT_Test.runtimeconfig.json
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\bin\Debug\netcoreapp2.1\WebAPI_GIT_Test.runtimeconfig.dev.json
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\bin\Debug\netcoreapp2.1\WebAPI_GIT_Test.dll
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\bin\Debug\netcoreapp2.1\WebAPI_GIT_Test.pdb
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\obj\Debug\netcoreapp2.1\WebAPI_GIT_Test.csproj.CoreCompileInputs.cache
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\obj\Debug\netcoreapp2.1\WebAPI_GIT_Test.RazorAssemblyInfo.cache
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\obj\Debug\netcoreapp2.1\WebAPI_GIT_Test.RazorAssemblyInfo.cs
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\obj\Debug\netcoreapp2.1\WebAPI_GIT_Test.AssemblyInfoInputs.cache
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\obj\Debug\netcoreapp2.1\WebAPI_GIT_Test.AssemblyInfo.cs
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\obj\Debug\netcoreapp2.1\WebAPI_GIT_Test.RazorTargetAssemblyInfo.cache
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\obj\Debug\netcoreapp2.1\WebAPI_GIT_Test.dll
+E:\Sagar\POC\WebAPI_GIT_Test\WebAPI_GIT_Test\obj\Debug\netcoreapp2.1\WebAPI_GIT_Test.pdb
